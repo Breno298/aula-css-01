@@ -1,0 +1,24 @@
+#container{
+    background-color: #87A2FF;
+    width: 1280px;
+    height: 140px;
+    margin-left: 25px;
+    
+}
+.titulo{
+    font-size: 32px;
+    color: #ffd7c4;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.paragrafo{
+    color: #FAF7F0;
+    font-size: 16px;
+    line-height: 25px;
+    word-spacing: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+}

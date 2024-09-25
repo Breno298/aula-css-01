@@ -1,0 +1,18 @@
+#container{
+    background-color: orange;
+    width: 950px;
+    height: 280px;
+    margin-left: 20px;
+
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+p{
+    color: orangered;
+}
+.paragrafo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
