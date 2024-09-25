@@ -1,0 +1,27 @@
+
+.container{
+    background-color: rgb(238, 221, 221);
+    
+}
+#box{
+    background-color: rgb(85, 217, 213);
+    text-align: center;
+    width: 250px;
+    height: 300px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: 460px;
+    margin-bottom: 30px;
+    font-size: 10px;
+}
+
+img{
+    width: 250px;
+    height: 150px;
+    
+}
+button{
+    width: 90px;
+    height: 30px;
+}
+
